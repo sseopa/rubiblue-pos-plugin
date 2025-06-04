@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "coza.rubiblue.glocellpos.rubiblue-pos-plugin-mergeReleaseResources-2:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sseopa\\.gradle\\caches\\transforms-3\\7d3e3ddc229883453bf548a769d21a6d\\transformed\\appcompat-1.2.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "coza.rubiblue.glocellpos.rubiblue-pos-plugin-merged_res-4:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sseopa\\.gradle\\caches\\transforms-3\\7d3e3ddc229883453bf548a769d21a6d\\transformed\\appcompat-1.2.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

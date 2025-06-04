@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml:2:3-6:14
+INJECTED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml:2:3-6:14
+INJECTED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml:2:3-6:14
+	package
+		ADDED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml:3:7-41
+		INJECTED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml:2:13-71
+uses-permission#android.permission.READ_PRIVILEGED_PHONE_STATE
+ADDED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml:5:5-86
+	android:name
+		ADDED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml:5:22-83
+uses-sdk
+INJECTED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml
+INJECTED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml
+INJECTED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml
+INJECTED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml
+		ADDED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml
+		ADDED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Code\Mobile\P\Plugns\rubiblue-gc-pos\android\src\main\AndroidManifest.xml
