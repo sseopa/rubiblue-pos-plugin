@@ -44,11 +44,16 @@ repositories {
     google()
     jcenter()
     mavenCentral()
+    flatDir {
+        dirs 'libs'
+    }
 }
 
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar','*.aar'])
+    //implementation fileTree(dir: 'libs', include: ['*.jar','*.aar'])
+     implementation(name: 'WiseSdk_D_1.04_00a_23060101', ext: 'aar')
+    implementation(name: 'WiseSdk_P_1.18_00a_23071301', ext: 'aar')
     implementation project(':capacitor-android')
     implementation files('libs\\WeiposSDKII-bin-2.0.jar')
     testImplementation "junit:junit:$junitVersion"
